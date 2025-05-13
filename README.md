@@ -48,13 +48,29 @@ Built trading bots for:
 
 ---
 
+## 🔭 Tools & Platforms I Know
+
+| Category                | Tools & Platforms                                                                |
+| ----------------------- | -------------------------------------------------------------------------------- |
+| **Cloud & DevOps**      | Azure, Supabase, GitHub Actions, Azure Functions, Azure Key Vault                |
+| **Automation**          | n8n, PowerShell, Python, MCP (Model Context Protocol), Llama Parse               |
+| **Business Systems**    | Xero, Halo PSA, Microsoft 365, Entra ID, Azure AD, Graph API, sync.blue          |
+| **MDM & Device Mgmt**   | Jamf Pro, Apple Configurator, iPad/Mac icon layouts                              |
+| **Web & UI**            | Playwright, TailwindCSS, Lovable.dev, Kinsta (Static Sites)                      |
+| **Finance & Reporting** | Xero MCP Server, PDF invoice parsing, AI bill summaries, billing automation      |
+| **Storage & Sync**      | Nextcloud, CardDAV, Dicker Data, Leader Computers, CSV/JSON/XML feeds            |
+| **Trading & Crypto**    | Solana, Jupiter API, OpenBook DEX, Raydium, gRPC, Jito, Helius, Kamino, RugCheck |
+| **Security**            | Defender for Business, DNSFilter, Huntress, Meraki, Cisco Umbrella               |
+| **Other**               | Canva, HubSpot, Photoshop, Shopify                                               |
+
+---
+
 ## 🔭 Projects I'm Cooking
 
 * 🤖 AI-powered CFO for automating Xero decisions & categorization
 * 📊 Monthly billing reports from Halo PSA + Xero using n8n
 * 🧾 Vendor catalog sync from Dicker Data/Leader into Halo with stock tracking
 * 🔄 Hourly user sync from Microsoft Entra ID to Nextcloud CardDAV for iPhones
-
 
 ---
 
@@ -69,11 +85,11 @@ A boutique MSP delivering:
 * Helpdesk and support systems
 * Financial and business systems integration
 
-Backed by over a decade of tech, now pushing toward AI-native business infrastructure.
+Backed by over a decade of deep tech, now pushing toward AI-native business infrastructure.
 
 ---
 
-## 📫 Connect with Me
+## ✉️ Connect with Me
 
 * 🌐 [nublock.digital](https://nublock.digital)
 * 💼 [LinkedIn](https://www.linkedin.com/in/darcydrum/)
