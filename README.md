@@ -10,10 +10,10 @@
 ## 🔧 What I Do
 
 🧠 **Automation Architect**
-Helping businesses ditch busywork with automation and AI. I build systems that handle onboarding, billing, support, and financial ops while I sleep.
+Helping businesses ditch busywork with automation and AI. I build systems that handle onboarding, billing, support, and financial ops.
 
 ⚙️ **MSP by Trade**
-I run **Nublock Digital**, a next-gen Managed Services Provider. We focus on automation-first IT, VoIP, cloud, internet, and system design with a smart, blue-branded corporate edge.
+I run **Nublock Digital**, a next-gen Managed Services Provider. We focus on automation-first IT, VoIP, cloud, internet, and system design.
 
 🐍 **Script Whisperer**
 
@@ -52,11 +52,11 @@ Built trading bots for:
 
 | Category                | Tools & Platforms                                                                |
 | ----------------------- | -------------------------------------------------------------------------------- |
-| **Cloud & DevOps**      | Azure, Supabase, GitHub Actions, Azure Functions, Azure Key Vault                |
+| **Cloud & DevOps**      | Azure, Supabase, GitHub Actions,                                                 |
 | **Automation**          | n8n, PowerShell, Python, MCP (Model Context Protocol), Llama Parse               |
 | **Business Systems**    | Xero, Halo PSA, Microsoft 365, Entra ID, Azure AD, Graph API, sync.blue          |
 | **MDM & Device Mgmt**   | Jamf Pro, Apple Configurator, iPad/Mac icon layouts                              |
-| **Web & UI**            | Playwright, TailwindCSS, Lovable.dev, Kinsta (Static Sites)                      |
+| **Web & UI**            | Playwright, TailwindCSS, Lovable.dev, Kinsta, Wordpress                          |
 | **Finance & Reporting** | Xero MCP Server, PDF invoice parsing, AI bill summaries, billing automation      |
 | **Storage & Sync**      | Nextcloud, CardDAV, Dicker Data, Leader Computers, CSV/JSON/XML feeds            |
 | **Trading & Crypto**    | Solana, Jupiter API, OpenBook DEX, Raydium, gRPC, Jito, Helius, Kamino, RugCheck |
@@ -85,7 +85,7 @@ A boutique MSP delivering:
 * Helpdesk and support systems
 * Financial and business systems integration
 
-Backed by over a decade of deep tech, now pushing toward AI-native business infrastructure.
+Backed by over a decade in tech, now pushing toward AI-native business infrastructure.
 
 ---
 
